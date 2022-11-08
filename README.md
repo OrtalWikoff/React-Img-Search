@@ -1,4 +1,8 @@
-# React Image Search Using Unsplash API
+# React Image Search, Using Unsplash API
+
+## Deployed app:
+
+https://react-img-search.herokuapp.com/
 
 ## Getting Started with Create React App
 
